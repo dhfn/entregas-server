@@ -61,7 +61,62 @@
                 }
             ],
             "pedidos": [
+                {
+                    "id": "0016343543",
+                    "cliente": "Drogaria Big Pharma",
+                    "endereco": "R. Itajara, 219 - Jockei Clube, Boa Vista - RR, 69300-000",
+                    "status": 5,
+                    "volumes": 5,
+                    "km_entrega": 53980,
+                    "hora_entrega": "08:25",
+                    "obs": "Entegue com sucesso!"
+                }
+            ]
 
+        },
+        {
+            "motorista"     : "julianerson",
+            "veiculo"       : "SOS1515",
+            "data"          : "29/09/2019",
+            "hora_saida"    : "08:25",
+            "hora_chegada"  : "09:45",
+            "abastecimento" : [],
+            "pedidos": [
+                {
+                    "id": "0016343544",
+                    "cliente": "Ultra Farma",
+                    "endereco": "R. Pedro Vasconcelos, 595 - Liberdade, Boa Vista - RR, 69309-970",
+                    "status": 4,
+                    "volumes": 3
+                },
+                {
+                    "id": "0016343545",
+                    "cliente": "Farmatudo",
+                    "endereco": "Av. Gen. Ataíde Teive, 2881 - Buritis, Boa Vista - RR, 69309-187",
+                    "status": 4,
+                    "volumes": 6
+                },
+                {
+                    "id": "0016343546",
+                    "cliente": "Drogaria Natal 2",
+                    "endereco": "Av. Brg. Eduardo Gomes, 3275 / 1 - Mecejana, Boa Vista - RR, 69304-015",
+                    "status": 4,
+                    "volumes": 2
+                },
+                {
+                    "id": "0016343547",
+                    "cliente": "Tocantins Centro de Compras",
+                    "endereco": "Av. Santos Dumont, 1398 - Aparecida, Boa Vista - RR, 69306-165",
+                    "status": 4,
+                    "volumes": 2
+                },
+                {
+                    "id": "0016343548",
+                    "cliente": "Ideal Drogaria",
+                    "endereco": "Av. Cap. Júlio Bezerra, 227 - Centro, Boa Vista - RR, 69301-410",
+                    "status": 4,
+                    "volumes": 2
+                }
             ]
 
         }
