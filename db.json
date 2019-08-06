@@ -23,6 +23,13 @@
             "endereco": "Av. Gen. Ataíde Teive, 2881 - Buritis, Boa Vista - RR, 69309-187",
             "status": 4,
             "volumes": 6
+        },
+        {
+            "id": "0016343545",
+            "cliente": "Drogaria Natal 2",
+            "endereco": "Av. Brg. Eduardo Gomes, 3275 / 1 - Mecejana, Boa Vista - RR, 69304-015",
+            "status": 4,
+            "volumes": 2
         }
     ],
     "entregas": [
