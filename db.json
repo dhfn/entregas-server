@@ -1,0 +1,68 @@
+{
+    "pedidos": [
+        {
+            "id": "qger42srfk25",
+            "cliente": "Drogaria Big Pharma",
+            "endereco": "R. Itajara, 219 - Jockei Clube, Boa Vista - RR, 69300-000",
+            "status": 4,
+            "volumes": 5,
+            "km_entrega": 53980,
+            "hora_entrega": "08:25",
+            "obs": "Entegue com sucesso!"
+        },
+        {
+            "id": "qger42srfk35",
+            "cliente": "Ultra Farma Comércio LTDA",
+            "endereco": "R. Pedro Vasconcelos, 595 - Liberdade, Boa Vista - RR, 69309-970",
+            "status": 4,
+            "volumes": 3
+        },
+        {
+            "id": "qger42srfk45",
+            "cliente": "Farmatudo",
+            "endereco": "Av. Gen. Ataíde Teive, 2881 - Buritis, Boa Vista - RR, 69309-187",
+            "status": 4,
+            "volumes": 6
+        }
+    ],
+    "entregas": [
+        {
+            "motorista"     : "elieverson",
+            "veiculo"       : "SOS1515",
+            "data"          : "29/09/2019",
+            "hora_saida"    : "08:14",
+            "hora_chegada"  : "09:53",
+            "abastecimento" : [
+                {
+                    "km": 53980,
+                    "l": 5,
+                    "oreco_combustivel": 4.03
+                }
+            ],
+            "pedidos": [
+
+            ]
+
+        }
+    ],
+    "motoristas": [
+        {
+            "id"  : "elieverson",
+            "nome": "Elieverson Santos"
+        },
+        {
+            "id"  : "julianerson",
+            "nome": "Julianerson Pereira"
+        }
+    ],
+    "veiculos": [
+        {
+            "id"    : "SOS1515",
+            "modelo": "Fiorino"
+        },
+        {
+            "id"    : "LTS1804",
+            "modelo": "Saveiro"        
+        }
+    ]
+}
