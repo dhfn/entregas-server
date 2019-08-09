@@ -151,11 +151,15 @@
     "motoristas": [
         {
             "id"  : "elieverson",
-            "nome": "Elieverson Santos"
+            "nome": "Elieverson Santos",
+            "email":"eliev@mail.com",
+            "senha":"secret"
         },
         {
             "id"  : "julianerson",
-            "nome": "Julianerson Pereira"
+            "nome": "Julianerson Pereira",
+            "email":"julion@mail.com",
+            "senha":"secret"
         }
     ],
     "veiculos": [
