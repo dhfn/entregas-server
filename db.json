@@ -11,7 +11,7 @@
             "id": "0016343543",
             "cliente": "Drogaria Big Pharma",
             "endereco": "R. Itajara, 219 - Jockei Clube, Boa Vista",
-            "localizacao": {"lat": 2.8073969, "lng": -60.7204253},
+            "localizacao": [2.8073969, -60.7204253],
             "status": 5,
             "volumes": 5,
             "km_entrega": 53980,
@@ -22,7 +22,7 @@
             "id": "0016343544",
             "cliente": "Ultra Farma",
             "endereco": "R. Pedro Vasconcelos, 595 - Liberdade, Boa Vista",
-            "localizacao": {"lat": 2.823087, "lng": -60.7483713},
+            "localizacao": [2.823087, -60.7483713],
             "status": 4,
             "volumes": 3
         },
@@ -30,7 +30,7 @@
             "id": "0016343545",
             "cliente": "Farmatudo",
             "endereco": "Av. Gen. Ataíde Teive, 2881 - Buritis, Boa Vista",
-            "localizacao": {"lat": 2.8189345, "lng": -60.7080449},
+            "localizacao": [2.8189345, -60.7080449],
             "status": 4,
             "volumes": 6
         },
@@ -38,7 +38,7 @@
             "id": "0016343546",
             "cliente": "Drogaria Natal 2",
             "endereco": "Av. Brg. Eduardo Gomes, 3275 / 1 - Mecejana, Boa Vista",
-            "localizacao": {"lat": 2.8318602, "lng": -60.6908138},
+            "localizacao": [2.8318602, -60.6908138],
             "status": 4,
             "volumes": 2
         },
@@ -46,7 +46,7 @@
             "id": "0016343547",
             "cliente": "Tocantins Centro de Compras",
             "endereco": "Av. Santos Dumont, 1398 - Aparecida, Boa Vista",
-            "localizacao": {"lat": 2.8328765, "lng": -60.6707382},
+            "localizacao": [2.8328765, -60.6707382],
             "status": 4,
             "volumes": 2
         },
@@ -54,7 +54,7 @@
             "id": "0016343548",
             "cliente": "Ideal Drogaria",
             "endereco": "Av. Cap. Júlio Bezerra, 227 - Centro, Boa Vista",
-            "localizacao": {"lat": 2.8242409, "lng": -60.6744817},
+            "localizacao": [2.8242409, -60.6744817],
             "status": 4,
             "volumes": 2
         }
@@ -108,7 +108,7 @@
                     "id": "0016343544",
                     "cliente": "Ultra Farma",
                     "endereco": "R. Pedro Vasconcelos, 595 - Liberdade, Boa Vista",
-                    "localizacao": {"lat": 2.823087, "lng": -60.7483713},
+                    "localizacao": [2.823087, -60.7483713],
                     "status": 4,
                     "volumes": 3
                 },
@@ -116,7 +116,7 @@
                     "id": "0016343545",
                     "cliente": "Farmatudo",
                     "endereco": "Av. Gen. Ataíde Teive, 2881 - Buritis, Boa Vista",
-                    "localizacao": {"lat": 2.8189345, "lng": -60.7080449},
+                    "localizacao": [2.8189345, -60.7080449],
                     "status": 4,
                     "volumes": 6
                 },
@@ -124,7 +124,7 @@
                     "id": "0016343546",
                     "cliente": "Drogaria Natal 2",
                     "endereco": "Av. Brg. Eduardo Gomes, 3275 / 1 - Mecejana, Boa Vista",
-                    "localizacao": {"lat": 2.8318602, "lng": -60.6908138},
+                    "localizacao": [2.8318602, -60.6908138],
                     "status": 4,
                     "volumes": 2
                 },
@@ -132,7 +132,7 @@
                     "id": "0016343547",
                     "cliente": "Tocantins Centro de Compras",
                     "endereco": "Av. Santos Dumont, 1398 - Aparecida, Boa Vista",
-                    "localizacao": {"lat": 2.8328765, "lng": -60.6707382},
+                    "localizacao": [2.8328765, -60.6707382],
                     "status": 4,
                     "volumes": 2
                 },
@@ -140,7 +140,7 @@
                     "id": "0016343548",
                     "cliente": "Ideal Drogaria",
                     "endereco": "Av. Cap. Júlio Bezerra, 227 - Centro, Boa Vista",
-                    "localizacao": {"lat": 2.8242409, "lng": -60.6744817},
+                    "localizacao": [2.8242409, -60.6744817],
                     "status": 4,
                     "volumes": 2
                 }
