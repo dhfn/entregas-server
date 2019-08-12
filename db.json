@@ -164,11 +164,13 @@
     "veiculos": [
         {
             "id"    : "SOS1515",
-            "modelo": "Fiorino"
+            "modelo": "Fiorino",
+            "status": 1
         },
         {
             "id"    : "LTS1804",
-            "modelo": "Saveiro"
+            "modelo": "Saveiro",
+            "status": 1
         }
     ]
 }
