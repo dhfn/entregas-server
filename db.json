@@ -163,13 +163,13 @@
     ],
     "veiculos": [
         {
-            "id"    : "SOS1515",
-            "modelo": "Fiorino",
+            "id"    : "345623454",
+            "placa": "SOS1515",
             "status": 1
         },
         {
-            "id"    : "LTS1804",
-            "modelo": "Saveiro",
+            "id"    : "123564353",
+            "placa": "LTS1804",
             "status": 1
         }
     ]
