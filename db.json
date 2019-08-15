@@ -12,7 +12,7 @@
             "cliente": "Drogaria Big Pharma",
             "endereco": "R. Itajara, 219 - Jockei Clube, Boa Vista",
             "localizacao": [2.8073969, -60.7204253],
-            "status": 5,
+            "status": 1,
             "volumes": 5,
             "km_entrega": 53980,
             "hora_entrega": "08:25",
@@ -23,7 +23,7 @@
             "cliente": "Ultra Farma",
             "endereco": "R. Pedro Vasconcelos, 595 - Liberdade, Boa Vista",
             "localizacao": [2.823087, -60.7483713],
-            "status": 4,
+            "status": 2,
             "volumes": 3
         },
         {
@@ -31,7 +31,7 @@
             "cliente": "Farmatudo",
             "endereco": "Av. Gen. Ataíde Teive, 2881 - Buritis, Boa Vista",
             "localizacao": [2.8189345, -60.7080449],
-            "status": 4,
+            "status": 3,
             "volumes": 6
         },
         {
@@ -47,7 +47,7 @@
             "cliente": "Tocantins Centro de Compras",
             "endereco": "Av. Santos Dumont, 1398 - Aparecida, Boa Vista",
             "localizacao": [2.8328765, -60.6707382],
-            "status": 4,
+            "status": 1,
             "volumes": 2
         },
         {
@@ -55,7 +55,7 @@
             "cliente": "Ideal Drogaria",
             "endereco": "Av. Cap. Júlio Bezerra, 227 - Centro, Boa Vista",
             "localizacao": [2.8242409, -60.6744817],
-            "status": 4,
+            "status": 2,
             "volumes": 2
         }
     ],
