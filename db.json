@@ -57,6 +57,20 @@
             "localizacao": [2.8242409, -60.6744817],
             "status": 2,
             "volumes": 2
+        },
+        {
+            "id": "5d55e8eab9d8210001f00a48",
+            "cliente": "Ultrafarma",
+            "endereco": "Av. Centenário, 2182 - Cinturão Verde, Boa Vista",
+            "localizacao": [
+                2.8008813,
+                -60.7144852
+            ],
+            "status": 1,
+            "volumes": 12,
+            "km_entrega": 0,
+            "hora_entrega": null,
+            "obs": null
         }
     ],
     "entregas": [
